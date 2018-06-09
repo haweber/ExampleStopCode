@@ -1,0 +1,17 @@
+*_dict*
+*~
+*.o
+*.d
+*.so
+*.pcm
+*.cxx
+*.png
+*.jpg
+*.pdf
+*.eps
+*.ps
+*.tif
+*.root
+CORE
+Software
+NTupleTools
